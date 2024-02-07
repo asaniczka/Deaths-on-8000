@@ -22,6 +22,6 @@ The project will then clean the data and save it as a CSV file for further analy
 
 ## How to Use
 
-1. Install the necessary dependencies: pandas, csv.7
+1. Install the necessary dependencies: pandas, csv.
 2. Run the provided code to collect and organize the data.
 3. The cleaned data will be saved as a CSV file named "deaths_on_eight-thousanders.csv".
