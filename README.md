@@ -22,13 +22,6 @@ The project will then clean the data and save it as a CSV file for further analy
 
 ## How to Use
 
-1. Install the necessary dependencies: pandas, csv.
-2. Import the required libraries:
-
-```python
-import pandas as pd
-import csv
-```
-
-3. Run the provided code to collect and organize the data.
-4. The cleaned data will be saved as a CSV file named "deaths_on_eight-thousanders.csv".
+1. Install the necessary dependencies: pandas, csv.7
+2. Run the provided code to collect and organize the data.
+3. The cleaned data will be saved as a CSV file named "deaths_on_eight-thousanders.csv".
