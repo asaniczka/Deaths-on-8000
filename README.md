@@ -1,6 +1,6 @@
 # Analyzing Deaths on Eight-Thousanders
 
-This project aims to collect and organize data on deaths that occurred on eight-thousanders, which are mountains with peaks above 8,000 meters in height. 
+This project aims to collect and organize data on deaths that occurred on eight-thousanders, which are mountains with peaks above 8,000 meters in height.
 
 The project will then clean the data and save it as a CSV file for further analysis.
 
@@ -25,3 +25,7 @@ The project will then clean the data and save it as a CSV file for further analy
 1. Install the necessary dependencies: pandas, csv.
 2. Run the provided code to collect and organize the data.
 3. The cleaned data will be saved as a CSV file named "deaths_on_eight-thousanders.csv".
+
+## Dataset
+
+Dataset created by script can be found on [Kaggle](https://www.kaggle.com/datasets/asaniczka/mountain-climbing-accidents-dataset)
